@@ -1,0 +1,26 @@
+.app {
+  height: 100vh;
+  background: linear-gradient(to right, #f2709c, #ff9472);
+  text-align: center;
+
+  & code {
+    color: #750313;
+  }
+
+  & .appHeader {
+    color: white;
+    padding: 100px;
+  }
+
+  & .reactSvg {
+    margin: 0 auto;
+    & path {
+      fill: transparent;
+    }
+  }
+
+  & .link {
+    color: #00d8ff;
+    padding: 20px;
+  }
+}
