@@ -4,6 +4,12 @@ _This is still a beta, if something doesn’t work, please [file an issue](https
 
 Create React apps with no build configuration.
 
+## Why RollupJS
+
+Rollup for me represents the next generation of build tools based on its performance (build time), an easier configuration (less complicated than webpack but more involved than Parcel), and optional but out-of-the-box features likes source maps, and not using a .babelrc.
+
+So why not try it for new projects so you can check it by yourself.
+
 ## Quick Overview
 
 ```sh
@@ -116,4 +122,4 @@ Your environment will have everything you need to build a modern single-page Rea
 
 ## License
 
-Create React App is open source software [licensed as MIT](https://github.com/almerino/create-react-rollup-app/blob/master/LICENSE).
+Create React Rollup App is open source software [licensed as MIT](https://github.com/almerino/create-react-rollup-app/blob/master/LICENSE).

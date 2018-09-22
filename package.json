@@ -2,6 +2,7 @@
   "author": "almerino",
   "name": "create-react-rollup-app",
   "version": "0.0.1",
+  "homepage": "https://github.com/almerino/create-react-rollup-app#readme",
   "scripts": {
     "build": "rollup -c",
     "watch": "rollup -c -w",
